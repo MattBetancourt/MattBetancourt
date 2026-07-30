@@ -35,30 +35,35 @@
 - Rooftop garden just for guests, live music at Geco bar
 - "Bubbly Suite" has an outdoor daybed — very romantic
 - **~€200–350/night**
+- [gatsbyathens.com](https://gatsbyathens.com/)
 
 **Xenodocheio Milos** ⭐ (Syntagma)
 - Athens' first "gastronomy hotel" — by Chef Costas Spiliadis (Estiatorio Milos, also in NYC)
 - Heritage neoclassical building, marble bathrooms, turndown service
 - World-class restaurant + bar on site
 - **~€250–400/night**
+- [xenodocheiomilos.com](https://www.xenodocheiomilos.com/)
 
 **Athens Gate Hotel** ⭐ (by Temple of Olympian Zeus)
 - #1 rated "romantic hotel" on TripAdvisor for Athens
 - Direct Acropolis views from rooms & rooftop
 - Right next to Temple of Olympian Zeus, walking distance to Plaka
 - **~€150–250/night** — best value for location
+- [athensgatehotel.gr](https://www.athensgatehotel.gr/)
 
 **Electra Palace Athens** (Plaka)
 - Rooftop pool with Acropolis view
 - Metropolis Roof Garden restaurant — one of the best romantic dinner spots
 - 5-star, classic elegance
 - **~€200–350/night**
+- [electrahotels.gr](https://www.electrahotels.gr/hotels/electra-palace-athens/)
 
 **Herodion Hotel** (Acropolis area)
 - Steps from the Acropolis Museum
 - Rooftop with Parthenon view, great breakfast
 - Quiet, elegant, very couple-friendly
 - **~€150–250/night**
+- [herodion.gr](https://www.herodion.gr/)
 
 ### Splurge — The Iconic Choice
 
@@ -67,6 +72,7 @@
 - Rooftop restaurant with direct Acropolis views
 - Rooftop pool, spa, Michelin-level dining
 - **~€350–500/night** in October
+- [marriott.com](https://www.marriott.com/en-us/hotels/athlc-hotel-grande-bretagne-a-luxury-collection-hotel-athens/overview/)
 
 ### Boutique Luxury
 
@@ -74,11 +80,13 @@
 - Ultra-chic, modern, at the foot of the Acropolis
 - Rooftop with stunning Parthenon views
 - **~€650–750/night**
+- [thedolli.com](https://www.thedolli.com/)
 
 **AthensWas Design Hotel**
 - Sleek design, Acropolis views from rooms
 - Walking distance to Plaka
 - **~$270/night**
+- [athenswas.gr](https://www.athenswas.gr/)
 
 ### Mid-Range Romantic — Best Value
 
@@ -86,16 +94,19 @@
 - Boutique, stylish, private garden access
 - Very romantic, quiet, central
 - **~$268/night**
+- [shilaathens.com](https://www.shilaathens.com/)
 
 **Mona Athens** (Monastiraki) ⭐ 9.2
 - 20 rooms in a converted 1950s textile factory
 - Speakeasy bar, rooftop, unique vibe
 - **~$220/night**
+- [mona-athens.com](https://mona-athens.com/)
 
 **Perianth Hotel** (Agias Eirinis Square)
 - Art Deco building, Bauhaus-inspired rooms
 - Penthouse Suite has 360° views of Athens
 - **~$200–300/night**
+- [perianthhotel.com](https://perianthhotel.com/)
 
 ### Coastal Romantic
 
@@ -103,19 +114,20 @@
 - On the coast, 20 min from center
 - Pool, spa, sea views, romantic dinner on the veranda
 - **~$250–350/night**
+- [themargi.gr](https://www.themargi.gr/)
 
 ---
 
 ## 🍽️ Romantic Rooftop Dining (Acropolis View)
 
-| Restaurant | Hotel | Vibe |
-|---|---|---|
-| **GB Roof Garden** | Hotel Grande Bretagne | The classic — lunch is better than dinner here |
-| **Metropolis Roof Garden** | Electra Palace | Romantic, creative Mediterranean, stunning Acropolis view |
-| **Tudor Hall** | King George Hotel | Michelin-level, best dinner option with Parthenon view |
-| **Mappemonde** | Athens Was | Rooftop bar & restaurant, great for sunset cocktails + dinner |
-| **A for Athens** | A for Athens Hotel | Monastiraki rooftop, views of Acropolis + square |
-| **Hill Athens** | — | 4.6 rating, great views, more casual |
+| Restaurant | Hotel | Vibe | Link |
+|---|---|---|---|
+| **GB Roof Garden** | Hotel Grande Bretagne | The classic — lunch > dinner here | [gbroofgarden.gr](https://www.gbroofgarden.gr/) |
+| **Metropolis Roof Garden** | Electra Metropolis | Romantic, creative Mediterranean, stunning Acropolis view | [electrahotels.gr](https://www.electrahotels.gr/hotels/electra-metropolis-athens/restaurants/metropolis-roof-garden/) |
+| **Tudor Hall** | King George Hotel | Michelin-level, best dinner with Parthenon view | [tudorhall.gr](https://www.tudorhall.gr/) |
+| **Mappemonde** | Athens Capital Hotel | Rooftop bar & restaurant, sunset cocktails + dinner | [mappemonde.gr](https://mappemonde.gr/) |
+| **A for Athens** | A for Athens Hotel | Monastiraki rooftop, views of Acropolis + square | [aforathens.com](https://aforathens.com/bar-restaurant/) |
+| **Hill Athens** | — | 4.6 rating, great views, more casual | [hillathens.gr](https://hillathens.gr/en/homepage/) |
 
 **Pro tip:** Book sunset slot (~6:30pm in Oct) for golden hour on the Acropolis.
 
@@ -131,16 +143,40 @@
 
 ### Daytime
 
-- **Acropolis & Parthenon** — Go at 8am opening. October = no heat, no crowds
-- **Acropolis Museum** — World-class, airy, cafe with direct Parthenon view
-- **Plaka** — Cobblestone streets, bougainvillea, little shops. Perfect for wandering
-- **Anafiotika** — Hidden gem. Tiny Cycladic neighborhood under the Acropolis. Feels like a secret island village
-- **National Garden** — Peaceful, green, quiet. Free. Behind Parliament
-- **Lycabettus Hill** — Take the funicular up for sunset. Best 360° view of Athens
-- **Ancient Agora** — Less crowded than Acropolis, equally fascinating
-- **National Archaeological Museum** — World-class collection
-- **Monastiraki Flea Market** (Sundays)
-- **Cape Sounion & Temple of Poseidon** — Half-day trip (1 hr drive). Sunset at the temple on the cliff is incredible for couples
+**Acropolis & Parthenon**
+- Go at 8am opening. October = no heat, no crowds
+- Tickets: [hhticket.gr](https://hhticket.gr/) or [tickets.hh.gr](https://tickets.hh.gr/en/venues/acropolis-of-athens-tickets) (€30)
+
+**Acropolis Museum**
+- World-class, airy, cafe with direct Parthenon view
+- [theacropolismuseum.gr](https://www.theacropolismuseum.gr/en)
+
+**Plaka**
+- Cobblestone streets, bougainvillea, little shops. Perfect for wandering
+
+**Anafiotika**
+- Hidden gem. Tiny Cycladic neighborhood under the Acropolis. Feels like a secret island village
+
+**National Garden**
+- Peaceful, green, quiet. Free. Behind Parliament
+
+**Lycabettus Hill**
+- Take the funicular up for sunset. Best 360° view of Athens
+- [lycabettushill.com](https://www.lycabettushill.com/)
+
+**Ancient Agora**
+- Less crowded than Acropolis, equally fascinating
+- Tickets: [tickets.hh.gr](https://tickets.hh.gr/en/venues/ancient-agora-of-athens-tickets) (€20)
+
+**National Archaeological Museum**
+- World-class collection
+- [namuseum.gr](https://www.namuseum.gr/en/)
+
+**Monastiraki Flea Market** (Sundays)
+
+**Cape Sounion & Temple of Poseidon**
+- Half-day trip (1 hr drive). Sunset at the temple on the cliff is incredible for couples
+- Tickets: [odysseus.culture.gr](http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2390) (€20)
 
 ### Evening / Romantic
 
