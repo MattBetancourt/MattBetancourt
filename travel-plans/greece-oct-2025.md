@@ -28,6 +28,38 @@
 
 ## 🏨 Romantic Hotel Options
 
+### Top Tier — Best for Couples
+
+**Gatsby Athens** ⭐ (Syntagma)
+- 1930s Art Deco building, Gatsby-inspired vibe
+- Rooftop garden just for guests, live music at Geco bar
+- "Bubbly Suite" has an outdoor daybed — very romantic
+- **~€200–350/night**
+
+**Xenodocheio Milos** ⭐ (Syntagma)
+- Athens' first "gastronomy hotel" — by Chef Costas Spiliadis (Estiatorio Milos, also in NYC)
+- Heritage neoclassical building, marble bathrooms, turndown service
+- World-class restaurant + bar on site
+- **~€250–400/night**
+
+**Athens Gate Hotel** ⭐ (by Temple of Olympian Zeus)
+- #1 rated "romantic hotel" on TripAdvisor for Athens
+- Direct Acropolis views from rooms & rooftop
+- Right next to Temple of Olympian Zeus, walking distance to Plaka
+- **~€150–250/night** — best value for location
+
+**Electra Palace Athens** (Plaka)
+- Rooftop pool with Acropolis view
+- Metropolis Roof Garden restaurant — one of the best romantic dinner spots
+- 5-star, classic elegance
+- **~€200–350/night**
+
+**Herodion Hotel** (Acropolis area)
+- Steps from the Acropolis Museum
+- Rooftop with Parthenon view, great breakfast
+- Quiet, elegant, very couple-friendly
+- **~€150–250/night**
+
 ### Splurge — The Iconic Choice
 
 **Hotel Grande Bretagne** (Syntagma Square)
@@ -69,27 +101,66 @@
 
 **The Margi** (Athens Riviera / Vouliagmeni)
 - On the coast, 20 min from center
-- Beach club vibe, pool, spa, sea views
+- Pool, spa, sea views, romantic dinner on the veranda
 - **~$250–350/night**
+
+---
+
+## 🍽️ Romantic Rooftop Dining (Acropolis View)
+
+| Restaurant | Hotel | Vibe |
+|---|---|---|
+| **GB Roof Garden** | Hotel Grande Bretagne | The classic — lunch is better than dinner here |
+| **Metropolis Roof Garden** | Electra Palace | Romantic, creative Mediterranean, stunning Acropolis view |
+| **Tudor Hall** | King George Hotel | Michelin-level, best dinner option with Parthenon view |
+| **Mappemonde** | Athens Was | Rooftop bar & restaurant, great for sunset cocktails + dinner |
+| **A for Athens** | A for Athens Hotel | Monastiraki rooftop, views of Acropolis + square |
+| **Hill Athens** | — | 4.6 rating, great views, more casual |
+
+**Pro tip:** Book sunset slot (~6:30pm in Oct) for golden hour on the Acropolis.
 
 ---
 
 ## 🎯 Top Pick
 
-**Shila Athens** or **Mona Athens** — ~$220–270/night. Boutique, romantic, central (Plaka/Monastiraki). Walking distance to Acropolis, rooftop dinners, charming streets. ~$880–1,080 total for 4 nights.
+**Gatsby Athens** or **Athens Gate Hotel** — ~€150–350/night. Both are romantic, central, and great value for October. Gatsby for the unique vibe, Athens Gate for the Acropolis views.
 
 ---
 
-## 🏛️ What to Do in Athens (4 Days)
+## 🏛️ Romantic Things to Do
 
-- **Acropolis & Parthenon** — go early morning to beat crowds
-- **Plaka** — charming old neighborhood, great for wandering & dinner
+### Daytime
+
+- **Acropolis & Parthenon** — Go at 8am opening. October = no heat, no crowds
+- **Acropolis Museum** — World-class, airy, cafe with direct Parthenon view
+- **Plaka** — Cobblestone streets, bougainvillea, little shops. Perfect for wandering
+- **Anafiotika** — Hidden gem. Tiny Cycladic neighborhood under the Acropolis. Feels like a secret island village
+- **National Garden** — Peaceful, green, quiet. Free. Behind Parliament
+- **Lycabettus Hill** — Take the funicular up for sunset. Best 360° view of Athens
+- **Ancient Agora** — Less crowded than Acropolis, equally fascinating
+- **National Archaeological Museum** — World-class collection
 - **Monastiraki Flea Market** (Sundays)
-- **Ancient Agora** — less crowded than Acropolis, equally fascinating
-- **National Archaeological Museum** — world-class collection
-- **Lycabettus Hill** — sunset views over the whole city
-- **Rooftop dinner** — book a table with Acropolis view (GB Roof Garden, A for Athens, etc.)
-- **Day trip option**: Cape Sounion & Temple of Poseidon (1 hr drive, sunset)
+- **Cape Sounion & Temple of Poseidon** — Half-day trip (1 hr drive). Sunset at the temple on the cliff is incredible for couples
+
+### Evening / Romantic
+
+- **Sunset cocktails at a rooftop bar** — A for Athens, GB Roof Garden, or Mappemonde
+- **Romantic dinner with Acropolis view** — Tudor Hall or Metropolis Roof Garden
+- **Night walk in Plaka** — All lit up, quiet, tavernas with live bouzouki music
+- **Athens Riviera dinner** — Drive 20 min to Vouliagmeni for seaside dinner
+- **Wine tasting** — Karamanakos Winery or a wine bar in Psiri
+
+---
+
+## 📅 Suggested 4-Day Itinerary
+
+| Day | Plan |
+|---|---|
+| **Sun Oct 12** | Arrive, settle in, sunset cocktails at A for Athens, dinner in Plaka |
+| **Mon Oct 13** | Acropolis + Museum in AM, Anafiotika + Plaka afternoon, rooftop dinner at Tudor Hall |
+| **Tue Oct 14** | Cape Sounion day trip (Temple of Poseidon sunset), seaside dinner |
+| **Wed Oct 15** | National Garden + Lycabettus Hill sunset, farewell dinner at Metropolis Roof Garden |
+| **Thu Oct 16** | Last breakfast with Acropolis view, fly home |
 
 ---
 
