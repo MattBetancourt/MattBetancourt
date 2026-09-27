@@ -58,13 +58,14 @@ Architected an enterprise multi-agent retrieval and intelligence engine separati
 ### [Credal Actions SDK](https://github.com/Credal-ai/actions-sdk) — Contributor
 *Enterprise TypeScript framework for LLM tool calling, secure data connectors, and agentic workflows.*
 
-- **[`salesforce/getCleanActivityRecords`](https://github.com/Credal-ai/actions-sdk/pull/559) ([PR #559](https://github.com/Credal-ai/actions-sdk/pull/559))**
+- **[`salesforce/getCleanActivityRecords`](https://github.com/Credal-ai/actions-sdk/pull/559) ([PR #559](https://github.com/Credal-ai/actions-sdk/pull/559) — Open, under review)**
   - Built an end-to-end data normalization and security pipeline for AI agents to ingest Salesforce email communication histories.
   - Implemented AST-style (Abstract Syntax Tree) SOQL injection guards, regex-based HTML/quote-chain stripping, and deterministic thread deduplication.
   - Engineered a **133 Jest unit test suite** validating edge cases, malformed payloads, and injection defense.
-- **[`readCommentsOnDoc`](https://github.com/Credal-ai/actions-sdk/pull/572) ([PR #572](https://github.com/Credal-ai/actions-sdk/pull/572))**
+- **[`readCommentsOnDoc`](https://github.com/Credal-ai/actions-sdk/pull/572) ([PR #572](https://github.com/Credal-ai/actions-sdk/pull/572) — Open, under review)**
   - Engineered Google Docs comment and anchor text extraction with deterministic $O(n)$ merging of Google Drive API metadata and raw OpenXML (OOXML) structures.
   - Implemented decompression stream security guards to protect against zip-bomb vulnerabilities.
+  - Code lives in [my working fork](https://github.com/MattBetancourt/credal-doc-and-comments/blob/main/src/actions/providers/google-oauth/readCommentsOnDoc.ts).
 - **[`getSpreadsheetMetadata`](https://github.com/Credal-ai/actions-sdk/pull/534) ([PR #534](https://github.com/Credal-ai/actions-sdk/pull/534) — Merged)**
   - Designed metadata extraction using field masks to minimize memory footprints and reduce API token overhead.
   - Built a fallback-driven XLSX download pipeline to bypass native Google Sheets API timeout limits on large workbooks.
@@ -75,7 +76,9 @@ Architected an enterprise multi-agent retrieval and intelligence engine separati
   - When batch review creation fails due to line validation mismatches, surviving comments are grouped into a single consolidated fallback review rather than degrading into $N$ separate comments.
 
 ### [DataPortals.org](https://github.com/okfn/dataportals.org) — Contributor
-- Restored stale municipal endpoints and metadata for Boston and New York City open data portals within the global catalog.
+- Restored stale municipal endpoints and metadata for Boston and New York City open data portals within the global catalog ([PR #418](https://github.com/okfn/dataportals.org/pull/418) — Merged).
+
+> **Note on private work:** the property-intelligence tooling behind my Socrata SODA / ArcGIS REST claims (municipal permits, ownership, violations, TCO research) currently lives in a private repository — sanitized architectures and case studies available on request.
 
 ---
 
