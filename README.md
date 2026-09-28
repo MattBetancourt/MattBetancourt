@@ -14,7 +14,9 @@
 
 Customer Success, Implementation, and Operations Specialist with 10+ years managing enterprise post-sales lifecycles, institutional client portfolios, and complex system integrations across SaaS, fintech, and IoT platforms.
 
-Prior to architecting AI-powered CRM retrieval layers and diagnostic workflows at ButterflyMX, I spent over a decade leading customer onboarding, executive relationship management, and revenue retention across tier-one financial data and trading platforms (**Refinitiv**, **Fitch Solutions**, **Enfusion**). I leverage this deep customer-facing operational background to engineer practical AI workflows, deterministic multi-agent systems, and data validation pipelines that eliminate operational friction, prevent context degradation, and safeguard recurring revenue.
+At ButterflyMX my day job is Implementation Project Specialist: I own implementation lifecycle health, on-site activation, and the CARR-to-Live-ARR billing gate across thousands of customer implementations. Alongside that core role I volunteered as the team's Credal.ai power user, building Salesforce-backed agent workflows that automate the billing audits and account triage I previously handled manually. That split runs through everything below: core delivery first, AI as operational leverage I earned the right to build.
+
+Before ButterflyMX I spent over a decade leading customer onboarding, executive relationship management, and revenue retention across tier-one financial data and trading platforms (**Refinitiv**, **Fitch Solutions**, **Enfusion**).
 
 ---
 
@@ -22,14 +24,14 @@ Prior to architecting AI-powered CRM retrieval layers and diagnostic workflows a
 
 Before and alongside my applied AI work, my career is grounded in high-volume enterprise customer delivery and account management:
 
-- **ButterflyMX (PropTech & IoT Access Control):** Governed implementation lifecycle health, on-site activation milestones, and CARR-to-Live-ARR billing gates across an active pipeline of **5,162 customer implementations** and **8,214 live property records**. Maintained a 35+ daily intervention cadence across contractors and property managers.
-- **Refinitiv / Thomson Reuters (Risk Intelligence & Compliance):** Managed a **$4.8M ARR ($400K MRR)** institutional portfolio across 30+ enterprise accounts and 2,000+ end users (World-Check KYC/AML, Sanctions, PEP screening), sustaining **95%+ net revenue retention** and supporting mission-critical U.S. government agency workflows.
-- **Fitch Solutions (Credit Ratings & Macro Intelligence):** Account Manager and Customer Success lead supporting a **$42M institutional book of business** across 90+ global investment banks, hedge funds, and private equity managers, leading onboarding and renewal strategy for fixed-income intelligence feeds.
-- **Enfusion (Fintech / Investment Operations):** Managed client onboarding, portfolio accounting, and OEMS/PMS trade-lifecycle support for **15+ hedge funds and asset managers** on a cloud-native investment management platform.
+- **ButterflyMX (PropTech & IoT Access Control, Implementation Project Specialist - core role):** Governed implementation lifecycle health, on-site activation milestones, and CARR-to-Live-ARR billing gates across an active pipeline of **5,162 customer implementations** and **8,214 live property records**. Maintained a 35+ daily intervention cadence across contractors and property managers. This is my day job; the AI systems below were volunteered on top of it.
+- **Refinitiv / Thomson Reuters (Risk Intelligence & Compliance):** Managed a **$4.8M ARR ($400K MRR)** institutional portfolio across 30+ enterprise accounts and 2,000+ end users (World-Check KYC/AML, Sanctions, PEP screening), driving adoption and renewal outcomes through proactive usage-based risk analysis and QBRs, and supporting mission-critical U.S. government agency workflows.
+- **Fitch Solutions (Credit Ratings & Macro Intelligence):** Customer Success Manager, Global Accounts supporting a **$42M institutional book of business** across tier-one banks and financial institutions, leading onboarding, usage-monitored outreach, and renewal strategy for fixed-income intelligence feeds.
+- **Enfusion (Fintech / Investment Operations):** Provided technical and integration support for **15+ hedge funds and asset managers** on a cloud-native investment management platform, covering onboarding support, reconciliation-break triage, and third-party connectivity coordination.
 
 ---
 
-## 🏛️ Applied AI Systems & Architecture Highlights
+## 🏛️ Applied AI Systems & Architecture Highlights (volunteered alongside core IPS role)
 
 ### 1. Two-Tier Semantic Translation Layer with Delegated Execution
 Architected an enterprise multi-agent retrieval and intelligence engine separating nondeterministic business reasoning from deterministic, injection-safe execution:
