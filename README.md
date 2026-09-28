@@ -14,7 +14,7 @@
 
 Customer Success, Implementation, and Operations Specialist with 10+ years managing enterprise post-sales lifecycles, institutional client portfolios, and complex system integrations across SaaS, fintech, and IoT platforms.
 
-At ButterflyMX my day job is Implementation Project Specialist: I own implementation lifecycle health, on-site activation, and the CARR-to-Live-ARR billing gate across thousands of customer implementations. Alongside that core role I volunteered as the team's Credal.ai power user, building Salesforce-backed agent workflows that automate the billing audits and account triage I previously handled manually. That split runs through everything below: core delivery first, AI as operational leverage I earned the right to build.
+At ButterflyMX (March 2025 - May 2026) my core role was Implementation Project Specialist: I owned implementation lifecycle health, on-site activation, and the CARR-to-Live-ARR billing gate across thousands of customer implementations. I am currently seeking Customer Success and Implementation roles where operational scale intersects with applied AI workflows. Alongside that core role I volunteered as the team's Credal.ai power user, building Salesforce-backed agent workflows that automated the billing audits and account triage I previously handled manually. That split runs through everything below: core delivery first, AI as operational leverage I earned the right to build.
 
 Before ButterflyMX I spent over a decade leading customer onboarding, executive relationship management, and revenue retention across tier-one financial data and trading platforms (**Refinitiv**, **Fitch Solutions**, **Enfusion**).
 
@@ -24,7 +24,7 @@ Before ButterflyMX I spent over a decade leading customer onboarding, executive 
 
 Before and alongside my applied AI work, my career is grounded in high-volume enterprise customer delivery and account management:
 
-- **ButterflyMX (PropTech & IoT Access Control, Implementation Project Specialist - core role):** Governed implementation lifecycle health, on-site activation milestones, and CARR-to-Live-ARR billing gates across an active pipeline of **5,162 customer implementations** and **8,214 live property records**. Maintained a 35+ daily intervention cadence across contractors and property managers. This is my day job; the AI systems below were volunteered on top of it.
+- **ButterflyMX (PropTech & IoT Access Control, Implementation Project Specialist, March 2025 - May 2026 - core role):** Governed implementation lifecycle health, on-site activation milestones, and CARR-to-Live-ARR billing gates across an active pipeline of **5,162 customer implementations** and **8,214 live property records**. Maintained a 35+ daily intervention cadence across contractors and property managers. This was my core role; the AI systems below were volunteered on top of it.
 - **Refinitiv / Thomson Reuters (Risk Intelligence & Compliance):** Managed a **$4.8M ARR ($400K MRR)** institutional portfolio across 30+ enterprise accounts and 2,000+ end users (World-Check KYC/AML, Sanctions, PEP screening), driving adoption and renewal outcomes through proactive usage-based risk analysis and QBRs, and supporting mission-critical U.S. government agency workflows.
 - **Fitch Solutions (Credit Ratings & Macro Intelligence):** Customer Success Manager, Global Accounts supporting a **$42M institutional book of business** across tier-one banks and financial institutions, leading onboarding, usage-monitored outreach, and renewal strategy for fixed-income intelligence feeds.
 - **Enfusion (Fintech / Investment Operations):** Provided technical and integration support for **15+ hedge funds and asset managers** on a cloud-native investment management platform, covering onboarding support, reconciliation-break triage, and third-party connectivity coordination.
@@ -88,7 +88,7 @@ Architected an enterprise multi-agent retrieval and intelligence engine separati
 
 | Dimension | Scope & Business Outcome |
 | :--- | :--- |
-| **Enterprise Portfolio Management** | Managed a **$42M book of business** (Fitch Solutions) and a **$4.8M ARR portfolio** with 95%+ retention (Refinitiv). |
+| **Enterprise Portfolio Management** | Managed a **$42M book of business** (Fitch Solutions) and a **$4.8M ARR portfolio** (Refinitiv). |
 | **Implementation Operations** | Governed **5,162 active implementation records** across **8,214 completed properties** (ButterflyMX). |
 | **Production Query Scale** | Mined and analyzed **17,086 production SOQL queries** across 96 Salesforce objects to ground AI schemas. |
 | **Context Window Compression** | Compressed CRM activity payloads by **94% (~165KB to ~10KB)** via two-pass triage, eliminating context overflow. |
