@@ -98,16 +98,6 @@ Architected an enterprise multi-agent retrieval and intelligence engine separati
 
 ---
 
-## 💻 Technical Arsenal
-
-- **Customer Success & Operations:** Enterprise Onboarding, CARR-to-Live-ARR Conversion, Retention & Expansion, QBRs, Cross-Functional Risk Triage, Multi-Stakeholder Escalations.
-- **Applied AI & Agentic Systems:** Two-Tier Orchestrator / Sub-Agent Architectures, Model Context Protocol (FastMCP), Grounded RAG, Two-Pass Context Optimization, Prompt Engineering & Anti-Inference Constraints, Human-in-the-Loop Governance.
-- **Languages & Frameworks:** TypeScript, Node.js, Python, Jest, REST APIs, JSON, SQL, SOQL / SOSL.
-- **Platforms & Data Systems:** Salesforce CRM (Architecture, Object Schemas, Describe Metadata), Google Workspace APIs (Docs, Sheets, Drive), Zendesk, OpenXML / OOXML, Socrata SODA API, ArcGIS REST API.
-- **Domain Specializations:** RegTech & Sanctions Screening (World-Check, AML/KYC), Alternative Investments & Wealth Platforms (PE/VC, Hedge Funds), PropTech Access Control & Hardware Diagnostic Trees.
-
----
-
 ## 📬 Connect
 
 - **LinkedIn:** [linkedin.com/in/matthew-betancourt-csm](https://www.linkedin.com/in/matthew-betancourt-csm/)
